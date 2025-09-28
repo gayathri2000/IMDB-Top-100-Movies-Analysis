@@ -30,4 +30,4 @@ This project showcases an interactive Power BI dashboard built on the IMDb Top 1
 # Institute Website Project Link: 
   https://asquaretechnologiesweb.com/imdb-movie-analysis-1920-2020/
 
-For viewing the project, head to "Project Zipped", download the raw file, unzip and open it. Screenshots are also attached.
+For viewing the project, head to "Project Zipped", download the raw file, unzip and open it.

@@ -3,7 +3,7 @@ Power BI report analyzing the IMDb Top 1000 movies dataset with insights on rati
 
 This project showcases an interactive Power BI dashboard built on the IMDb Top 1000 movies dataset.
 
-Key Highlights:
+# Key Highlights:
 
   Analyzed trends in movie ratings, genres, and certificates.
   
@@ -15,7 +15,7 @@ Key Highlights:
   
   Used Power Query for data cleaning and DAX for measures.
 
-Tools & Skills:
+# Tools & Skills:
 
   Power BI (Data Modeling, DAX, Dashboard Design)
   
@@ -24,8 +24,8 @@ Tools & Skills:
   Exploratory Data Analysis (EDA)
 
 
-Dataset: https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset
+# Dataset: https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset
 
-Institute Website Project Link: https://asquaretechnologiesweb.com/imdb-movie-analysis-1920-2020/
+# Institute Website Project Link: https://asquaretechnologiesweb.com/imdb-movie-analysis-1920-2020/
 
-Fow viewing the project, head to "Project Zipped", download the raw file, unzip and open it.
+For viewing the project, head to "Project Zipped", download the raw file, unzip and open it. Screenshots are also attached.

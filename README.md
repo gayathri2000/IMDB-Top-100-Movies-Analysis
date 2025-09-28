@@ -25,3 +25,5 @@ Tools & Skills:
 
 
 Dataset: https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset
+
+Institute Website Project Link: https://asquaretechnologiesweb.com/imdb-movie-analysis-1920-2020/
